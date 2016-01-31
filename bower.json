@@ -1,0 +1,20 @@
+{
+  "name": "globe.js",
+  "description": "Simple and modern 3D globe for developers.",
+  "homepage": "https://github.com/edduarte/globe.js",
+  "author": "edduarte",
+  "main": [
+    "globe.js"
+  ],
+  "ignore": [
+    "**/*",
+    ".travis.yml",
+    "CONTRIBUTING.md",
+    "globe.js",
+    "LICENSE.md",
+    "README.md",
+    "gulpfile.js",
+    "package.json"
+  ],
+  "dependencies": {}
+}

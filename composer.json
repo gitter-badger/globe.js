@@ -1,0 +1,26 @@
+{
+    "name": "edduarte/globe.js",
+    "type": "library",
+    "description": "Simple and modern 3D globe for developers.",
+    "keywords": [
+        "globe",
+        "js"
+    ],
+    "homepage": "http://edduarte.com/globe.js",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Eduardo Duarte",
+            "email": "hello@edduarte.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.3"
+    },
+    "minimum-stability": "stable",
+    "extra": {
+        "branch-alias": {
+            "release/2.0": "v2.0-dev"
+        }
+    }
+}
